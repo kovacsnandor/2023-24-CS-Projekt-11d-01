@@ -18,6 +18,7 @@ A képernyőre írást igénylő részfeladatok eredményének megjelenítése e
 2. Kérje be a felhasználótól egy forduló számát, majd írja a képernyőre a bekért forduló mérkőzéseinek adatait a következő formában: Edes-Savanyu: 2-0 (1-0)! Soronként egy mérkőzést tüntessen fel! A különböző sorokban a csapatnevek ugyanazon a pozíción kezdődjenek!
 
 Például:
+
 ![](kep2.png)
 
 1. Határozza meg, hogy a bajnokság során mely csapatoknak sikerült megfordítaniuk az ál- lást a második félidőben! Ez azt jelenti, hogy a csapat az első félidőben vesztésre állt ugyan, de sikerült a mérkőzést megnyernie. A képernyőn soronként tüntesse fel a forduló sorszámát és a győztes csapat nevét!
@@ -27,6 +28,6 @@ Például:
 5. Készítsen statisztikát, amely megadja, hogy az egyes végeredmények hány alkalommal fordultak elő! Tekintse egyezőnek a fordított eredményeket (például 4-2 és 2-4)! A na- gyobb számot mindig előre írja! Az elkészült listát a stat.txt állományban helyezze el!
 
 Például:
+
 ![](kep3.png)
 
-[def]: image1.png
