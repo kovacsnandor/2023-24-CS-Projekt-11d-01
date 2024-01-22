@@ -1,6 +1,0 @@
-D:\Users\Nándi\Dropbox\Public\Iskola\Tanmenetek\Feladatgyűjtemény\C#\e_info_05_okt_viginere\ViginereProjekt\ViginereProjekt\bin\Debug\ViginereProjekt.exe.config
-D:\Users\Nándi\Dropbox\Public\Iskola\Tanmenetek\Feladatgyűjtemény\C#\e_info_05_okt_viginere\ViginereProjekt\ViginereProjekt\bin\Debug\ViginereProjekt.exe
-D:\Users\Nándi\Dropbox\Public\Iskola\Tanmenetek\Feladatgyűjtemény\C#\e_info_05_okt_viginere\ViginereProjekt\ViginereProjekt\bin\Debug\ViginereProjekt.pdb
-D:\Users\Nándi\Dropbox\Public\Iskola\Tanmenetek\Feladatgyűjtemény\C#\e_info_05_okt_viginere\ViginereProjekt\ViginereProjekt\obj\Debug\ViginereProjekt.csprojResolveAssemblyReference.cache
-D:\Users\Nándi\Dropbox\Public\Iskola\Tanmenetek\Feladatgyűjtemény\C#\e_info_05_okt_viginere\ViginereProjekt\ViginereProjekt\obj\Debug\ViginereProjekt.exe
-D:\Users\Nándi\Dropbox\Public\Iskola\Tanmenetek\Feladatgyűjtemény\C#\e_info_05_okt_viginere\ViginereProjekt\ViginereProjekt\obj\Debug\ViginereProjekt.pdb
